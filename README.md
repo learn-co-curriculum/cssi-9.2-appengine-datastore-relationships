@@ -150,4 +150,4 @@ What if one day, a Kindergartener brought in two lunchboxes? Or a pair of siblin
 ####Conclusion
 Managing keys which point to objects makes our code more comprehensible and works faster and more efficiently. We'll use KeyReference to represent relationships in our apps.
 
-<a href='https://learn.co/lessons/cssi-9.2-appengine-datastore-relationships' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-9.2-appengine-datastore-relationships' title='App Engine Datastore Relationships'>App Engine Datastore Relationships</a> on Learn.co and start learning to code for free.</p>
